@@ -27,4 +27,4 @@
 *.swp
 *~
 
-config.h
+# config.h
